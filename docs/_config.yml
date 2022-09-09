@@ -36,8 +36,8 @@ plugins:
   - jekyll-include-cache
 #   - jekyll-remote-theme
 
-# theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
+# theme: minimal-mistakes-jekyll
 # remote_theme: benbalter/retlab
 
 
