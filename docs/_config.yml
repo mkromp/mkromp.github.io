@@ -33,7 +33,7 @@ url: "https://mkromp.github.io" # the base hostname & protocol for your site, e.
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
+  # - jekyll-include-cache
 #   - jekyll-remote-theme
 
 theme: minima
