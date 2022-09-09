@@ -34,6 +34,7 @@ url: "https://mkromp.github.io" # the base hostname & protocol for your site, e.
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 #   - jekyll-remote-theme
 
 # remote_theme: benbalter/retlab
