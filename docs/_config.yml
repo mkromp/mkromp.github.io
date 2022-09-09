@@ -35,8 +35,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 #   - jekyll-remote-theme
+
 # theme: minima
-remote_theme: benbalter/retlab
+theme: minimal-mistakes-jekyll
+# remote_theme: benbalter/retlab
 
 
 
